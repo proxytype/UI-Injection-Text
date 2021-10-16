@@ -1,6 +1,8 @@
 # UI-Injection-Text
 Change applications UI labels by overwrite user32.dll functions.
 
+![alt text](https://raw.githubusercontent.com/proxytype/UI-Injection-Text/main/overwrite_interface.JPG)
+
 ## Requierments:
 Microsoft Detours Library - https://github.com/microsoft/Detours
 
