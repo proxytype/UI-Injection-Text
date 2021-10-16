@@ -1,5 +1,5 @@
 # UI-Injection-Text
-Change applications UI labels by overwrite user32.dll functions.
+Change applications UI labels by hook SetDlgItemTextW(...) in user32.dll.
 
 ![alt text](https://raw.githubusercontent.com/proxytype/UI-Injection-Text/main/overwrite_interface.JPG)
 
